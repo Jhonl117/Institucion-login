@@ -14,7 +14,7 @@ body {
 /* LADO IZQUIERDO — LANDING */
 .landing {
   flex: 1.2;
-  background: url("") center/cover no-repeat;
+  background: url("estudiantes.jpeg") center/cover no-repeat;
   position: relative;
   color: white;
   padding: 40px;
