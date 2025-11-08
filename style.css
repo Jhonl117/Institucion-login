@@ -65,7 +65,7 @@ body {
   display: block;
 }
 
-/* ✅ LADO DERECHO — LOGIN */
+/* LADO DERECHO — LOGIN */
 .login {
   flex: 1;
   background: #eaf0ff;
@@ -98,7 +98,7 @@ body {
   color: #667085;
 }
 
-/* ✅ CONTENEDOR DEL FORMULARIO */
+/* CONTENEDOR DEL FORMULARIO */
 .formulario-box {
   background: white;
   padding: 35px;
@@ -151,7 +151,7 @@ body {
   padding-left: 10px;
 }
 
-/* ✅ BOTÓN */
+/* BOTÓN */
 button {
   width: 100%;
   padding: 12px;
